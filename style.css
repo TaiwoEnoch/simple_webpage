@@ -9,7 +9,7 @@ body {
 header {
   background-image: url('./images/Img.jpg'); /* Add a background image */
   color: white;
-  padding: 50px 20px;
+  padding: 70px 20px;
   background-size: cover;
   background-position: center;
 }
